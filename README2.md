@@ -19,3 +19,13 @@ Here, I will be adding simple Python scripts for learning ML:
 18.yolo.py
 19.transformer.py
 20.xgboost_model.py
+21.perceptron_from_scratch.py
+22.kmeans_color_quantization.py
+23.arima_forecasting.py
+24.isolation_forest_anomaly.py
+25.simple_gan_mnist.py
+26.bayesian_opt_svm.py
+27.bert_text_classification_demo.py
+28.tsne_mnist.py
+29.simple_auto_ml.py
+30.reinforcement_learning_q_learning.py
